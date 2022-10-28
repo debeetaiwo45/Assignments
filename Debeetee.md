@@ -1,4 +1,7 @@
 # Assignments
-summation of assignments from week3 to week5
-updating student's profile with github link
-change to username.md
+Push all week 3 to week 5 assignments to a GitHub repo called “Assignments''. The repository should have three branches named week3, week4, and week5 on GitHub.
+Update your profile with your GitHub link.
+Setup your [username].md file on GitHub using the link
+
+
+all tasks done
